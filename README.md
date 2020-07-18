@@ -1,2 +1,2 @@
-# Moore.io Ethernet DV
-Moore.io's hopper of Ethernet DV agents, environments, libraries and associated testing packages.
+# Moore.io Ethernet
+Moore.io's hopper of Ethernet IP, VIP & Script packages.
