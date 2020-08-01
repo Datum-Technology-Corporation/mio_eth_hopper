@@ -1,2 +1,2 @@
-# Moore.io Ethernet Hopper
-Moore.io's hopper of Ethernet IP, VIP & Script packages.
+# Moore.io Ethernet Project
+Moore.io's collection of Ethernet IP, VIP & Script packages.
